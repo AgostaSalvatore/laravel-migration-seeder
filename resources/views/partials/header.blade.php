@@ -1,7 +1,7 @@
 <header>
     <div class="container">
         <nav>
-            <ul>
+            <ul class="d-flex justify-content-around">
                 <li>
                     <a href="{{route('home')}}">Home</a>
                 </li>

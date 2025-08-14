@@ -1,7 +1,7 @@
 <footer>
     <hr>
     <div class="container">
-        <ul>
+        <ul class="d-flex justify-content-around">
             <li>
                 <a href="{{route('home')}}">Home</a>
             </li>
