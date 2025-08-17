@@ -39,11 +39,11 @@
                         {{$train -> arrival_station}}
                     </p>
                     <p>
-                        Orario di partenza: 
+                        Data di partenza: 
                         {{$train -> departure_time}}
                     </p>
                     <p>
-                        Orario di arrivo: 
+                        Data di arrivo: 
                         {{$train -> arrival_time}}
                     </p>
                     <p>
